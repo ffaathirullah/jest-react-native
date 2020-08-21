@@ -1,3 +1,3 @@
-# testman
-An example project using react-native-testing-library
-This project is related to this [youtube video](https://youtu.be/CpTQb0XWlRc)
+---unit testing jest-fachrul
+
+Saya belajar jest react native sumbernya dari sini [youtube video](https://youtu.be/CpTQb0XWlRc)
